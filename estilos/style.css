@@ -27,7 +27,7 @@ main{
     transform: translate(-50%, -50%);
     height: 403px;
     width: 200px;
-    background: url(../imagens/frame-iphone.png);
+    background: url(../imagens/frame-iphone_resized.png);
     background-repeat: no-repeat;
     
 }
@@ -36,9 +36,9 @@ main{
 
         position: relative;
         top: 50px;
-        left: 15px;
-        height: 400px;
-        width: 170px;
+        left: 14px;
+        height:310px;
+        width: 173px;
         background-size: cover;
 }
 #redes-sociais{
